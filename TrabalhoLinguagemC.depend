@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1636144866 source:c:\users\thyago\desktop\lista de super mercado\trabalholinguagemc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.c"
+	"functions.h"
+
+1636144888 c:\users\thyago\desktop\lista de super mercado\trabalholinguagemc\functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1636144866 c:\users\thyago\desktop\lista de super mercado\trabalholinguagemc\functions.h
+
+1636145062 source:c:\users\thyago\desktop\trabalholinguagemc\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"functions.h"
+
+1636145062 c:\users\thyago\desktop\trabalholinguagemc\functions.h
+
+1636145062 source:c:\users\thyago\desktop\trabalholinguagemc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"functions.h"
+
